@@ -1,37 +1,28 @@
-## Welcome to GitHub Pagess
+## HeavisideSDR
 
-You can use the [editor on GitHub](https://github.com/HeavysideSDR/HeavisideSDR.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### Mission
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The goal of the HeavisideSDR project is to enable remote HF operation on a small budget.
 
-### Markdown
+Many newly licensed amateurs are unable to take advantage of their HF privileges because of the difficulty of erecting an HF antenna
+when renting or living in an urban area. HeavisideSDR allows hams to setup a remote station easily and at low-cost,
+opening up the thrill of DX and HF operation to many more amateur operators.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Hardware
 
-```markdown
-Syntax highlighted code block
+#### HTX-1
 
-# Header 1
-## Header 2
-### Header 3
+The first HSDR board is the HTX-1, a digital HF transmitter.
 
-- Bulleted
-- List
+Tech specs:
 
-1. Numbered
-2. List
+ - supports all HF bands using [QRP Labs](https://www.qrp-labs.com/) low-pass filters
+ - 5W HF PA
+ - 2.4GHz WiFi and Bluetooth
+ - supports CW, PSK, and FSK digital modes
+ - external receiver output with QSK
 
-**Bold** and _Italic_ and `Code` text
+### Firmware
 
-[Link](url) and ![Image](src)
-```
+All HeavisideSDR boards use a common codebase written in C.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/HeavysideSDR/HeavisideSDR.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.

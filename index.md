@@ -6,6 +6,11 @@ Many newly licensed amateurs are unable to take advantage of their HF privileges
 when renting or living in an urban area. HeavisideSDR allows hams to setup a remote station easily and at low-cost,
 opening up the thrill of DX and HF operation to many more amateur operators.
 
+### Principles
+
+ >> **Low-Cost:** a traditional remote station could cost upwards of 15kUSD. HeavisideSDR answers the question: what could be done with a total station budget of 150USD?
+ >> **Open-Source:** HeavisideSDR hardware uses the TAPR Open Hardware License for the board designs and documentation, and the GNU Public License for the firmware and software utilities.
+
 ## Hardware
 
 ### HTX-1

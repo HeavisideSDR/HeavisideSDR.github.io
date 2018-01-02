@@ -1,6 +1,4 @@
-## HeavisideSDR
-
-### Mission
+## Mission
 
 The goal of the HeavisideSDR project is to enable remote HF operation on a small budget.
 
@@ -8,9 +6,9 @@ Many newly licensed amateurs are unable to take advantage of their HF privileges
 when renting or living in an urban area. HeavisideSDR allows hams to setup a remote station easily and at low-cost,
 opening up the thrill of DX and HF operation to many more amateur operators.
 
-### Hardware
+## Hardware
 
-#### HTX-1
+### HTX-1
 
 The first HSDR board is the HTX-1, a digital HF transmitter.
 
@@ -22,7 +20,7 @@ Tech specs:
  - supports CW, PSK, and FSK digital modes
  - external receiver output with QSK
 
-### Firmware
+## Firmware
 
 All HeavisideSDR boards use a common codebase written in C.
 
